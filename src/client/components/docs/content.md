@@ -1,3 +1,3 @@
-# Documentation Home
-## SubTitle
-Documentation content goes **here**
+** Content Loaded from **
+
+`src/client/components/docs/content.md`

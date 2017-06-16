@@ -17,6 +17,7 @@ class Header extends React.Component {
               MUI React App
             </div>
           }
+          iconElementLeft={<div />}
           iconElementRight={
             <div>
               <RaisedButton
